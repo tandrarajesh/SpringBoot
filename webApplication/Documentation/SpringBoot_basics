@@ -1,0 +1,6 @@
+#   What is Dev tools in SpringBoot ?
+
+The aim of this module is try to improve the development time experience when working on springBoot applications.
+
+Once you added SpringBoot Dev tools maven dependency in pom.xml after that no need to restart server every time.
+whenever code changes happen so it'll automatically restart.
